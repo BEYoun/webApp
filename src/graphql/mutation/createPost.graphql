@@ -1,0 +1,7 @@
+mutation CreatePost{
+	createPost(input: {title:"ddsezeffez" text:"fzefzefze"}){
+    id
+    title
+    text
+  }
+}
